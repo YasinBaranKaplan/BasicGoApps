@@ -1,0 +1,1 @@
+{"ID":12,"FirstName":"Yasin","LastName":"Kaplan","UserName":"Yaskobar_","Gender":"Erkek","Name":{"Family":"Kaplan","Personal":"YasinBaran"},"Email":[{"ID":1,"Kind":"Work","Address":"kaplantest@mail.com"},{"ID":2,"Kind":"Personel","Address":"testkaplant@mail.com"}],"Interest":[{"ID":1,"Name":"go"},{"ID":2,"Name":"golang"},{"ID":3,"Name":"googlelang"}]}
